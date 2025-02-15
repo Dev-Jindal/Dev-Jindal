@@ -57,7 +57,7 @@ I'm a **3rd-year student** at **UPES Dehradun**, specializing in **Cloud Computi
 ---
 
 ### 📊 GitHub Stats
-![Dev Jindal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjindal&show_icons=true&theme=radical)
+![Dev Jindal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Jindal&show_icons=true&theme=radical)
 
 ---
 
